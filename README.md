@@ -20,7 +20,7 @@
         <div class="card shadow-sm">
           <div class="card-header bg-transparent text-center">
             <img class="profile_img" src="https://source.unsplash.com/600x300/?student" alt="student dp">
-            <h3>Ishmam Ahasan Samin</h3>
+            <h3>Gurpreet Singh</h3>
           </div>
           <div class="card-body">
             <p class="mb-0"><strong class="pr-1">Student ID:</strong>321000001</p>
@@ -70,7 +70,7 @@
             <h3 class="mb-0"><i class="far fa-clone pr-1"></i>Other Information</h3>
           </div>
           <div class="card-body pt-0">
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+              <p>This site doesn't have any hosting services its just working with the help of git</p>
           </div>
         </div>
       </div>
